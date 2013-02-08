@@ -1,0 +1,16 @@
+{
+    "name": "clasp",
+    "description": "Parse, analyze and synthesize CSS",
+    "version": "0.1.0",
+    "author": "Elisha Cook <elisha@elishacook.com>",
+    "dependencies":
+    {
+        "pegjs": "0.7.0"
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "http://github.com/elishacook/clasp.git"
+    },
+    "main": "src/clasp"
+}
